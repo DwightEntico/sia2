@@ -1,0 +1,38 @@
+Midterm
+-dataTables
+-Modal
+-SWAL
+-Entrance animation
+
+
+Prefinals
+-admin dashboard
+
+route: 
+ 
+  /   - landing page
+  /admin/auth
+  /student/grades
+  /accounting/balance_sheet
+  /hacker/
+
+
+18-May-2024
+Midterm Exam (SIA2) Datatables, Modal, SWAL, Animation
+Prefinal Exam HTTrack, Login and Dashboard (modified)
+
+
+
+SIA2
+DataTables
+-folder structure
+
+13-Apr-2024
+Midterm 13-Apr-2024
+- Modal - pop up dialog/ window that displays custom contents.
+- SweetAlert - enhanced alert
+  -title, message, buttons, and icon
+  swal
+
+20-Apr-2024
+Examination
